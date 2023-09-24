@@ -1,5 +1,7 @@
 # TaskWave
 
+Simple kanban board (jira/trello clone) made with Elixir and Phoenix Framework
+
 <img src="https://github.com/pepega90/Task_Wave/blob/main/preview.gif" />
 
 To start your Phoenix server:
